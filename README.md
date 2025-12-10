@@ -1,6 +1,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)  
-[![npm version](https://img.shields.io/npm/v/radiumjs)](https://www.npmjs.com/package/radiumjs)  
+[![npm version](https://img.shields.io/npm/v/radiumlite)](https://www.npmjs.com/package/radiumlite)  
 
 Radium is a lightweight **TypeScript/JavaScript framework** for building interactive web applications with reusable UI components, a simple router, and a developer-friendly inspector. It's designed to be simple, modular, and fast for small to medium projects.
 
