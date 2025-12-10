@@ -1,0 +1,1 @@
+{"version":3,"file":"about.js","sourceRoot":"","sources":["../../../../bin/src/pages/about.tsx"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,4BAA4B,CAAC;AAEtD,MAAM,CAAC,OAAO,CAAC,KAAK,UAAU,KAAK;IACjC,MAAM,IAAI,GAAG,IAAI,QAAQ,EAAE,CAAC;IAC5B,IAAI,CAAC,SAAS,GAAG,qDAAqD,CAAC;IACvE,OAAO,IAAI,CAAC;AACd,CAAC"}
